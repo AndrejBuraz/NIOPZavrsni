@@ -1,0 +1,24 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\bin\Debug\NIOPZavrsniProjekt.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\bin\Debug\NIOPZavrsniProjekt.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\bin\Debug\NIOPZavrsniProjekt.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.FormPocetna.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.FormUnosFilma.resources
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\bin\Debug\NIOPZavrsniProjekt.exe.config
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\bin\Debug\NIOPZavrsniProjekt.exe
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\bin\Debug\NIOPZavrsniProjekt.pdb
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.FormPocetna.resources
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.FormUnosFilma.resources
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.Properties.Resources.resources
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.exe
+C:\Users\HP\Source\Repos\NIOPZavrsni\NIOPZavrsniProjekt\NIOPZavrsniProjekt\obj\Debug\NIOPZavrsniProjekt.pdb
